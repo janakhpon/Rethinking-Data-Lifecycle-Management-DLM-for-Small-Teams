@@ -1,8 +1,8 @@
 # Rethinking Data Lifecycle Management (DLM) for Small Teams
 
-_A minimalist approach to Data Lifecycle Management (DLM) for small teams._
+_Lifecycle questions come with time as much as with scale. They usually show up first as small, steady friction. For a small team, a simple approach is often enough._
 
-![](./assets/dlm.avif)
+![Article cover - Three databases labelled hot, warm and cold, with arrows from one to the next](./assets/dlm.avif)
 
 Database lifecycle management is often discussed in two extremes.
 
