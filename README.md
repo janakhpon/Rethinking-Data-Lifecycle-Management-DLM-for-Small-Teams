@@ -1,6 +1,6 @@
 # Rethinking Data Lifecycle Management (DLM) for Small Teams
 
-_Lifecycle questions come with time as much as with scale. A system that runs long enough meets them, usually first as small, steady friction. For a small team, a simple approach is often enough._
+_Lifecycle questions come with time as much as with scale. They usually show up first as small, steady friction. For a small team, a simple approach is often enough._
 
 ![Article cover - Three databases labelled hot, warm and cold, with arrows from one to the next](./assets/dlm.avif)
 
